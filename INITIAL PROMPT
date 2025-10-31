@@ -1,0 +1,1 @@
+create a turtle script that will keep track of where the turtle is using a coordinate system and mine down and fowards in a loop until bedrock. The turtle should use the coal it finds to  > refuel and place a chest to its side in a hole in the tunnel. The depth of the turtle should be a variable that is asked for in a terminal 
